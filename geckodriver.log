@@ -1,0 +1,32 @@
+1730375488296	geckodriver	INFO	Listening on 127.0.0.1:52125
+1730379695438	geckodriver	INFO	Listening on 127.0.0.1:52246
+1730379837713	geckodriver	INFO	Listening on 127.0.0.1:52366
+1730379840733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52367" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileECbded"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730379840969	Marionette	INFO	Marionette enabled
+1730379841054	Marionette	INFO	Listening on port 52374
+WebDriver BiDi listening on ws://127.0.0.1:52367
+Read port: 52374
+1730379841170	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1730379848731	Marionette	INFO	Stopped listening on port 52374
+Dynamically enable window occlusion 1
+1730379996673	geckodriver	INFO	Listening on 127.0.0.1:52418
+1730379999688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--remote-debugging-port" "52419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\2\\rust_mozprofileg0Rg5P"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1730379999922	Marionette	INFO	Marionette enabled
+1730380000004	Marionette	INFO	Listening on port 52426
+WebDriver BiDi listening on ws://127.0.0.1:52419
+Read port: 52426
+1730380000122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.error: ({})
+1730380020017	Marionette	INFO	Stopped listening on port 52426
+Dynamically enable window occlusion 1
